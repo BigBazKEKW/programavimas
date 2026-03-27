@@ -285,7 +285,6 @@ int main()
         }
         else if (pasirinkimas == 6)
         {
-            cout << "Programa baigta. Viso gero!" << endl;
             return 0; // Baigiama programa
         }
         else
