@@ -96,7 +96,7 @@ void rodytiVisus()
         return;
     }
     cout << endl
-         << "=== Visu mokiniu pazymiai ===" << endl;
+         << "Visu mokiniu pazymiai" << endl;
     // Isoriniu ciklas - eina per kiekviena mokini
     // int i = 0 - pradedame nuo pirmo mokinio
     for (int i = 0; i < mokiniuSk; i++)
@@ -252,7 +252,7 @@ int main()
     // while(true) - begalis ciklas, programa veiks tol, kol vartotojas pasirinks iseiti
     while (true)
     {
-        cout << "  Mokiniu pazymiu sistema" << endl;
+        cout << "Mokiniu pazymiu sistema" << endl;
         cout << "1. Ivesti nauja mokini" << endl;
         cout << "2. Rodyti visu mokiniu pazymius" << endl;
         cout << "3. Rodyti konkretaus mokinio pazymius" << endl;
