@@ -293,5 +293,5 @@ int main()
             cout << "Neteisingas pasirinkimas! Bandykite dar karta." << endl;
         }
     }
-    return 0; // Techniskai cia niekada nepasieksime, bet gera praktika tureti
+    return 0; // niekada pasiekiama eilute, bet for safety
 }
